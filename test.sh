@@ -1,4 +1,4 @@
-
+#!/bin/bash
 echo "Hi this my first proj"
 date
 cal
